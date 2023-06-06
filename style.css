@@ -1,0 +1,44 @@
+/* Header */
+header {
+    background-color: #040F0F;
+    color: white;
+  }
+  
+  /* Navigation Menu */
+  nav {
+    background-color: #606C38;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    margin: 0 10px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  /* Main Section */
+  main {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #DBCBD8;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
